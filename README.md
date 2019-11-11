@@ -1,4 +1,19 @@
 
+My most useful courses
+======================
+
+Useful courses about testing
+============================
+https://www.baeldung.com/spring-boot-testing
+https://www.baeldung.com/integration-testing-in-spring
+https://www.baeldung.com/junit-5
+
+
+
+Start of Baeldung's README
+==========================
+
+
 The Courses
 ==============================
 
